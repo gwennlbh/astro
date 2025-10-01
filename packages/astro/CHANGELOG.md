@@ -1,5 +1,11 @@
 # astro
 
+## 5.14.2
+
+### Patch Changes
+
+- [#14460](https://github.com/withastro/astro/pull/14460) [`008dc75`](https://github.com/withastro/astro/commit/008dc75d860eadbb394e86dac68c7f4962e40489) Thanks [@florian-lefebvre](https://github.com/florian-lefebvre)! - Fixes a case where `astro:config/server` values typed as URLs would be serialized as strings
+
 ## 5.14.1
 
 ### Patch Changes
